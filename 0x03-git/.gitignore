@@ -1,0 +1,3 @@
+#ignores both the git ignore file and any backup files
+#~.*
+#.gitignore
